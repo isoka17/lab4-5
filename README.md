@@ -1,5 +1,4 @@
 # Additional info
 
-I've created this repo as an exercise in order to improve my skills.
+LOUCIF DJAHID LAB 04+05
 
-[Dice](https://dlipianin.github.io/dice/)
